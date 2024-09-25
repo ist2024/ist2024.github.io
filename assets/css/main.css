@@ -90,8 +90,8 @@ h6 {
 /* Pulsating Play Button
 ------------------------------*/
 .pulsating-play-btn {
-  width: 94px;
-  height: 94px;
+  width: 74px;
+  height: 74px;
   background: radial-gradient(var(--accent-color) 50%, color-mix(in srgb, var(--accent-color), transparent 75%) 52%);
   border-radius: 50%;
   display: block;
@@ -1076,8 +1076,8 @@ section,
 
 .about .pulsating-play-btn {
   position: absolute;
-  left: calc(50% - 47px);
-  top: calc(50% - 47px);
+  left: calc(90% - 47px);
+  top: calc(78% - 47px);
 }
 
 /*--------------------------------------------------------------
